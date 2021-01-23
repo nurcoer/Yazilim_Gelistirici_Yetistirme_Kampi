@@ -11,7 +11,7 @@ namespace MyDictionaryDemo
         MyDictList<Tkey, Tval>[] _tempDictLists;
 
         //ctor oluşturulan dictionary'nin 0 boyutlu key ve value ya
-        //sahip  dizisinin oluşturulması ve boyutun değişkende tutulması
+        //sahip  dizisinin oluşturulması 
         public MyDictionary()
         {
             _myDictLists = new MyDictList<Tkey, Tval>[0];
