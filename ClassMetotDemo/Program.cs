@@ -53,12 +53,7 @@ namespace ClassMetotDemo
 
             Console.ReadLine();
 
-            //Ekleme Funksiyonu
-            void AddCustomer(Customer c)
-            {
-                customerManager.AddToCustomer(c);
-            }
-
+        
 
             //Listeleme işlemini ekrana yazdıran fonksiyon
             void ListCustomer(List<Customer> Lcustomers)

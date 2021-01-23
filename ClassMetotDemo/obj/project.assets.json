@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectUniqueName": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "projectName": "ClassMetotDemo",
-      "projectPath": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectPath": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\ClassMetotDemo\\ClassMetotDemo\\obj\\",
+      "outputPath": "D:\\asp.net\\Yazılım Geliştirici Yetiştirme Kampı\\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\ClassMetotDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
