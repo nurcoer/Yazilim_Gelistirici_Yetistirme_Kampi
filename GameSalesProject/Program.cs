@@ -9,7 +9,7 @@ namespace GameSalesProject
         static void Main(string[] args)
         {
             //customerların yaratılması 
-            MembersManager members = new MembersManager(new IMemberCheckManager());
+            MembersManager members = new MembersManager(new MemberCheckManager());
 
             //customerların eklenmesi
             Members nur = new Members() { NationalId = "11111111111", LastName = "cöer", FirstName = "nur", Id = 1, DateOfBirth = new DateTime(1997, 10, 26) };
